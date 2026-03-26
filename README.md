@@ -1,16 +1,21 @@
-## Hi there 👋
+## About Me
 
-<!--
-**marhaboo/marhaboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building modern and responsive web applications. Currently improving my skills and deepening knowledge in frontend technologies and architecture.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML, CSS, SASS
+* JavaScript (ES6+), TypeScript
+* React, Next.js
+* Tailwind CSS
+
+## Currently
+
+* Learning advanced React and Next.js concepts
+* Practicing clean code and scalable project structure
+
+## Contact
+
+* Email: [maboshka753@gmail.com](mailto:maboshka753@gmail.com)
+* GitHub: github.com/marhaboo
+* Telegram: @prmarhabo
